@@ -1376,10 +1376,8 @@
             "name": "Italy",
             "code": "ITA"
           },
-          "score": {
-						"ft": [2, 0],
-						"ht": [2, 0]
-					}
+          "score1": 2,
+          "score2": 0
         },
         {
           "num": 37,
@@ -1393,10 +1391,8 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "score": {
-						"ft": [2, 0],
-						"ht": [0, 0]
-					}
+          "score1": 2,
+          "score2": 0
         },
         {
           "num": 40,
@@ -1410,8 +1406,10 @@
             "name": "Slovakia",
             "code": "SVK"
           },
-          "score": {
-          }
+          "score1": 2,
+          "score2": 1,
+          "score1et": 2,
+          "score2et": 1
         },
         {
           "num": 39,
@@ -1425,8 +1423,8 @@
             "name": "Georgia",
             "code": "GEO"
           },
-          "score": {
-          }
+          "score1": 4,
+          "score2": 0
         },
         {
           "num": 42,
