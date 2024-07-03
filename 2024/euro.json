@@ -1438,8 +1438,8 @@
             "name": "Belgium",
             "code": "BEL"
           },
-          "score": {
-          }
+          "score1": 1,
+          "score2": 0
         },
         {
           "num": 41,
@@ -1453,8 +1453,12 @@
             "name": "Slovenia",
             "code": "SVN"
           },
-          "score": {
-          }
+          "score1": 0,
+          "score2": 0,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 3,
+          "score2p": 0
         },
         {
           "num": 43,
@@ -1468,8 +1472,8 @@
             "name": "Netherlands",
             "code": "NED"
           },
-          "score": {
-          }
+          "score1": 0,
+          "score2": 3
         },
         {
           "num": 44,
@@ -1478,6 +1482,71 @@
           "team1": {
             "name": "Austria",
             "code": "AUT"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score1": 1,
+          "score2": 2
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 45,
+          "date": "2024-07-05",
+          "time": "18:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 46,
+          "date": "2024-07-05",
+          "time": "21:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 48,
+          "date": "2024-07-06",
+          "time": "18:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score": {
+          }
+        },
+        {
+          "num": 47,
+          "date": "2024-07-06",
+          "time": "21:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
           },
           "team2": {
             "name": "Turkey",
