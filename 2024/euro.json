@@ -1617,8 +1617,8 @@
             "name": "England",
             "code": "ENG"
           },
-          "score": {
-          }
+          "score1": 2,
+          "score2": 1
         }
       ]
     }
